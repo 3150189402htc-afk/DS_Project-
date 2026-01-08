@@ -6,7 +6,8 @@
 
 二、数据来源
 https://tianchi.aliyun.com/dataset/649
-/数据位置
+
+数据位置
 原始数据: data/raw/UserBehavior.csv (不上传到Git)
 
 三、理解数据
