@@ -1,0 +1,25 @@
+# 基础数据处理
+pandas>=1.5.0
+numpy>=1.24.0
+
+# 数据可视化
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Jupyter环境
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.0.0
+
+# 数据分析与建模
+scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# 其他工具
+openpyxl>=3.1.0  # 处理Excel
+tqdm>=4.65.0     # 进度条
+
+# 开发工具
+black>=23.0.0    # 代码格式化
+pytest>=7.0.0    # 测试
